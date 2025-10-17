@@ -1,6 +1,6 @@
 # Academia Paz & Bem
 A high-conversion landing page and enrollment platform for online theological courses, featuring user registration and a streamlined payment process.
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/automacoescomerciaisintegradas/Academia-Paz-Bem)
 Academia Paz & Bem is a visually stunning, high-conversion educational platform designed for the 'Escola PAZ e BEM'. It serves as a comprehensive landing page and enrollment portal for online biblical and theological courses. The application is built on Cloudflare's edge network, utilizing Workers and Durable Objects for a fast, scalable, and secure user experience. The primary goal is to transform visitors into enrolled students through an intuitive and persuasive user journey.
 ## Key Features
 - **High-Conversion Landing Page:** Designed to engage visitors and guide them towards enrollment.
@@ -55,7 +55,7 @@ This project is designed for seamless deployment to the Cloudflare network.
     bun deploy
     ```
 Alternatively, you can deploy directly from your GitHub repository using the button below.
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/automacoescomerciaisintegradas/Academia-Paz-Bem)
 ## Project Structure
 -   `src/`: Contains the frontend React application source code.
     -   `pages/`: Top-level page components.
